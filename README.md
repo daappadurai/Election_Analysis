@@ -32,34 +32,7 @@ Election Audit Summary:
 This code can be used as a template for determining election results for the state and as well nationwide count of popular votes. 
 
 ## Modifications to the code:
-Initialize
-	Counties_won={}
-	Counties_won[candidate_name] = 0
- county_candidate_votes={}
-	 county_candidate_votes[candidate_name]=0
-	winning_county_vote =0
-	winning_candidate =””
-	winning_state_vote = 0
-	winning_state_candidate =””
 
-county_votes:{“Araphahoe”:num1 , “Jefferson”:num2 , “Denver”:num3………..etc}
-
-obtaining candidate vote count for each county or city
-
-for county in county_votes:
-	county_candidate_votes[candidate_name] +=1
-	print(county_candidate_votes)
-for candidate in county_candidate_votes:
-	votes = county_candidate_votes[candidate_name]
-if votes> winning_county_vote:
-		winning_county_vote =votes
-		winning_candidate=candidate_name
-		Counties_won[candidate_name] +=1
-For candidate in Counties_won:
-	candidate_vote = Counties_won[candidate_name]
-If candidate_vote > winning_state_vote
-		winning_state_vote = candidate_vote
-		winning_sate_candidate = candidate_name
 
 This code can be utilized to add more counties and to determine if a particular candidate win the state election. 
 
