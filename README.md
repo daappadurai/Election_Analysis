@@ -1,6 +1,6 @@
 # Election Results Analysis
 ## Overview:
-The purpose of this analysis is to determine the winning candidate for based on election results from three counties namely, Arapahoe, Denver, and Jefferson from the state of Colorado. The python code was written to parse through a csv file that harbors the ballot ID, County and Candidate name, to determine the following
+The purpose of this analysis is to determine the winning candidate for based on election results from three counties namely, Arapahoe, Denver, and Jefferson from the state of Colorado. The python code was written to parse through a csv file that harbors the ballot ID, County and Candidate name, to determine the following:
 
 i)	Total number of votes.
 ii)	Total number of votes obtained in each county.
