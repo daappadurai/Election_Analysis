@@ -33,6 +33,9 @@ This code can be used as a template for determining election results for the sta
 
 ## Modifications to the code:
 
+<img width="1020" alt="mod3-1" src="https://user-images.githubusercontent.com/116985403/227289324-e89b600e-32c6-4991-93e3-b3625e141123.png">
+
+
 
 This code can be utilized to add more counties and to determine if a particular candidate win the state election. 
 
